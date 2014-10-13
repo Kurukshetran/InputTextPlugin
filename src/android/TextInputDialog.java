@@ -1,4 +1,4 @@
-package com.app.imusic.plugin;
+package com.app.imusic.dialog;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaInterface;
